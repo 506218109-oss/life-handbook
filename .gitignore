@@ -1,0 +1,4 @@
+# 本地正文由 fetch_guide.py 从原站生成，版权属原作者，不入库
+references/
+.DS_Store
+__pycache__/
